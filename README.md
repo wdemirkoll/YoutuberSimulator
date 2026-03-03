@@ -214,8 +214,8 @@ cmake --build .
 ## **Author**
 
 **Abdüsselam Demirkol**  
-🐙 GitHub: wdemirkoll 
-📧 Email: wdemirkoll.dev@gmail.com  
-📸 Instagram: w.demirkoll  
+ 🐙 GitHub: wdemirkoll 
+ 📧 Email: wdemirkoll.dev@gmail.com  
+ 📸 Instagram: w.demirkoll  
 
-🗓 Created: March 2026
+ 🗓 Created: March 2026
