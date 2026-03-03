@@ -33,7 +33,12 @@ void Statistics(){
 }
 
 void Main_Menu(){
+    // Option 1 ↓
     std::cout << "1) Upload Video\n";
+
+    // Option 2 ↓
     std::cout << "2) Upgrade equipment quality\n";
+
+    // Option 0 ↓
     std::cout << "0) Exit\n";
 }
