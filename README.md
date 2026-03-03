@@ -2,6 +2,8 @@
 
 A simple console-based simulator game. This project simulates the experience of being a YouTuber, allowing the player to create videos, gain subscribers, manage money, and track their progress.
 
+This project uses global variables to manage shared in-game data such as subscriber count, money, and channel statistics. The project is structured using multiple source files and **extern** declarations to share global variables among different files.
+
 ---
 
 ## Requirements
