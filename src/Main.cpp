@@ -11,7 +11,7 @@ int main(){
     // Ask user for channel name
     std::cout << "Enter a channel name, ";
     std::getline(std::cin, Channel_Name);
-    std::cin.ignore(); // Clear leftover input
+    Pause();
 
      while(true){
         Clear_Console(); // Clear screen
@@ -42,9 +42,9 @@ int main(){
                std::cout << "( $100 = 1.0x) Enter the amount: $";
                std::cin >> BuyAmount;
 
-                if (BuyAmount >= 100){
-                    Money -= (BuyAmount / 100); // Deduct money
-                    Equipment_Quality += (BuyAmount / 100); // Increase equipment
+                if (BuyAmount >= 100.0){
+                    Money -= BuyAmount; // Deduct money
+                    Equipment_Quality += (BuyAmount / 100.0); // Increase equipment
                     Pause();
                 } 
                 else {
