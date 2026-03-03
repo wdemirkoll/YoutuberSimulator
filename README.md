@@ -1,6 +1,6 @@
 # Youtuber Simulator
 
-A simple console-based C++ game. This project simulates the experience of being a YouTuber, allowing the player to create videos, gain subscribers, manage money, and track their progress.
+A simple console-based simulator game. This project simulates the experience of being a YouTuber, allowing the player to create videos, gain subscribers, manage money, and track their progress.
 
 ---
 
