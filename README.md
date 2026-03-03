@@ -4,6 +4,8 @@ A simple console-based simulator game. This project simulates the experience of 
 
 This project uses global variables to manage shared in-game data such as subscriber count, money, and channel statistics. The project is structured using multiple source files and **extern** declarations to share global variables among different files.
 
+A learning project designed to practice project structure, multi-file organization, and shared variable management. A simple YouTuber simulator to experiment with programming concepts and improve coding skills.
+
 ---
 
 ## Requirements
